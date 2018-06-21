@@ -1,0 +1,133 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designbydkx.com" resolutions="1x" timestamp="1529544481855">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="taketori.css" crc="3949100683" ref="index"/>
+    <file name="_____.css" crc="4158692858" ref="个人作品集"/>
+    <file name="nomq______.css" crc="115706684" ref="个人作品集"/>
+    <file name="___.css" crc="281231192" ref="关于我"/>
+    <file name="nomq____.css" crc="4141000623" ref="关于我"/>
+    <file name="index.css" crc="75113124" ref="index"/>
+    <file name="nomq_index.css" crc="4041756829" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:个人作品集:关于我"/>
+    <file name="museutils.js" crc="163421577" ref="index:个人作品集:关于我"/>
+    <file name="whatinput.js" crc="86476730" ref="index:个人作品集:关于我"/>
+    <file name="museconfig.js" crc="36584860" ref="index:个人作品集:关于我"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:个人作品集:关于我"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:个人作品集:关于我"/>
+    <file name="taketori.js" crc="4106779027" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:个人作品集:关于我"/>
+  </folder>
+  <folder name="images">
+    <file name="longk1@2x.jpg" crc="4010837687" seo="true" ref="index"/>
+    <file name="yellowjx1@2x.jpg" crc="291731086" seo="true" ref="index"/>
+    <file name="yellowkuang2.jpg" crc="510159246" seo="true" ref="index"/>
+    <file name="whitekuang@2x.png" crc="4097678261" seo="true" ref="index"/>
+    <file name="heikuang@2x.png" crc="3874471616" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x.png" crc="4045232144" seo="true" ref="index"/>
+    <file name="535034487.jpg" crc="3849054760" seo="true" ref="index"/>
+    <file name="epson758.jpg" crc="4266159274" seo="true" ref="index"/>
+    <file name="smallheikuang@2x.png" crc="4241851551" seo="true" ref="index"/>
+    <file name="yuan@2x.png" crc="244639821" seo="true" ref="index"/>
+    <file name="me@2x.png" crc="3898580615" seo="true" ref="index"/>
+    <file name="star@2x.png" crc="4248363562" seo="true" ref="index"/>
+    <file name="dianzan@2x.png" crc="411363159" seo="true" ref="index:个人作品集:关于我"/>
+    <file name="longk2@2x.jpg" crc="3914774280" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x308x288.png" crc="516067156" seo="true" ref="index"/>
+    <file name="yellowjx1@2x421x478.jpg" crc="4227228100" seo="true" ref="index"/>
+    <file name="yellowkuang2398x464.jpg" crc="58369580" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x265x248.png" crc="453175973" seo="true" ref="index"/>
+    <file name="epson758251x393.jpg" crc="74138966" seo="true" ref="index"/>
+    <file name="yellowjx1@2x416x472.jpg" crc="4182511426" seo="true" ref="index"/>
+    <file name="yellowkuang2423x493.jpg" crc="3876670306" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x246x230.png" crc="3772886550" seo="true" ref="index"/>
+    <file name="epson758248x387.jpg" crc="4058923537" seo="true" ref="index"/>
+    <file name="yellowjx1@2x239x271.jpg" crc="114842243" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x166x155.png" crc="4200767477" seo="true" ref="index"/>
+    <file name="yellowkuang2320x465.jpg" crc="343122827" seo="true" ref="index"/>
+    <file name="epson758202x335.jpg" crc="150587648" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:个人作品集:关于我"/>
+    <file name="dayuankuang@2x.png" crc="4093469334" seo="true" ref="个人作品集"/>
+    <file name="changkuang1@2x.jpg" crc="4030040753" seo="true" ref="个人作品集:关于我"/>
+    <file name="shouye@2x.png" crc="285669449" seo="true" ref="个人作品集:关于我"/>
+    <file name="shoucang@2x.png" crc="159503345" seo="true" ref="个人作品集:关于我"/>
+    <file name="blacktouxiang@2x371x347.png" crc="235306093" seo="true" ref="个人作品集"/>
+    <file name="zphuangkuang@2x.jpg" crc="494158595" seo="true" ref="个人作品集"/>
+    <file name="00003-crop-u5370.jpg" crc="3848283896" ref="个人作品集"/>
+    <file name="00002-u5428.png" crc="4173137776" ref="个人作品集"/>
+    <file name="epson758-crop-u5453.jpg" crc="3983329123" ref="个人作品集"/>
+    <file name="1.jpg" crc="506324102" seo="true" ref="个人作品集"/>
+    <file name="00005-crop-u5580.jpg" crc="271802255" ref="个人作品集"/>
+    <file name="2.jpg" crc="220574684" seo="true" ref="个人作品集"/>
+    <file name="pszy.jpg" crc="4161095338" seo="true" ref="个人作品集"/>
+    <file name="fenggehuazy.jpg" crc="180106818" seo="true" ref="个人作品集"/>
+    <file name="dkxxl3.jpg" crc="493741542" seo="true" ref="个人作品集"/>
+    <file name="vcg41157504497.jpg" crc="38802750" seo="true" ref="个人作品集"/>
+    <file name="aizy7-crop-u5913.jpg" crc="296399660" ref="个人作品集"/>
+    <file name="aizy8-crop-u5938.jpg" crc="3848367568" ref="个人作品集"/>
+    <file name="xitiaokuang@2x.jpg" crc="4053096690" seo="true" ref="个人作品集:关于我"/>
+    <file name="dayuankuang@2x1024x926.png" crc="3941880243" seo="true" ref="个人作品集"/>
+    <file name="blacktouxiang@2x316x296.png" crc="290691853" seo="true" ref="个人作品集"/>
+    <file name="zphuangkuang@2x1024x193.jpg" crc="445119902" seo="true" ref="个人作品集"/>
+    <file name="00003-crop-u53702.jpg" crc="308263374" ref="个人作品集"/>
+    <file name="00002-crop-u5428.jpg" crc="467828687" ref="个人作品集"/>
+    <file name="epson758-crop-u54532.jpg" crc="3983329123" ref="个人作品集"/>
+    <file name="00005-crop-u55802.jpg" crc="271802255" ref="个人作品集"/>
+    <file name="zphuangkuang@2x1024x204.jpg" crc="445119902" seo="true" ref="个人作品集"/>
+    <file name="aizy7-crop-u59132.jpg" crc="296399660" ref="个人作品集"/>
+    <file name="aizy8-crop-u59382.jpg" crc="3848367568" ref="个人作品集"/>
+    <file name="dayuankuang@2x769x726.png" crc="4027701174" seo="true" ref="个人作品集"/>
+    <file name="blacktouxiang@2x214x201.png" crc="4153405324" seo="true" ref="个人作品集"/>
+    <file name="zphuangkuang@2x769x194.jpg" crc="493384202" seo="true" ref="个人作品集"/>
+    <file name="00003-crop-u53703.jpg" crc="3848283896" ref="个人作品集"/>
+    <file name="00002-crop-u54282.jpg" crc="467828687" ref="个人作品集"/>
+    <file name="epson758-crop-u54533.jpg" crc="3983329123" ref="个人作品集"/>
+    <file name="00005-crop-u55803.jpg" crc="271802255" ref="个人作品集"/>
+    <file name="zphuangkuang@2x768x210.jpg" crc="223035367" seo="true" ref="个人作品集"/>
+    <file name="aizy7-crop-u59133.jpg" crc="296399660" ref="个人作品集"/>
+    <file name="aizy8-crop-u59383.jpg" crc="3848367568" ref="个人作品集"/>
+    <file name="dayuankuang@2x639x725.png" crc="170055370" seo="true" ref="个人作品集"/>
+    <file name="blacktouxiang@2x256x240.png" crc="436425704" seo="true" ref="个人作品集"/>
+    <file name="zphuangkuang@2x639x171.jpg" crc="318239125" seo="true" ref="个人作品集"/>
+    <file name="00003-crop-u53704.jpg" crc="214239872" ref="个人作品集"/>
+    <file name="00002-u54282.png" crc="3950539788" ref="个人作品集"/>
+    <file name="epson758-crop-u54534.jpg" crc="4070267178" ref="个人作品集"/>
+    <file name="00005-crop-u55804.jpg" crc="3855680286" ref="个人作品集"/>
+    <file name="zphuangkuang@2x639x200.jpg" crc="318239125" seo="true" ref="个人作品集"/>
+    <file name="aizy7-crop-u59134.jpg" crc="204764562" ref="个人作品集"/>
+    <file name="aizy8-crop-u59384.jpg" crc="309159367" ref="个人作品集"/>
+    <file name="dayuankuang@2x321x364.png" crc="139703890" seo="true" ref="个人作品集"/>
+    <file name="blacktouxiang@2x83x78.png" crc="233833017" seo="true" ref="个人作品集"/>
+    <file name="00003-crop-u53705.jpg" crc="4249938006" ref="个人作品集"/>
+    <file name="00002-crop-u54283.jpg" crc="4287113683" ref="个人作品集"/>
+    <file name="epson758-crop-u54535.jpg" crc="4010361451" ref="个人作品集"/>
+    <file name="00005-crop-u55805.jpg" crc="409690990" ref="个人作品集"/>
+    <file name="zphuangkuang@2x321x136.jpg" crc="3922228854" seo="true" ref="个人作品集"/>
+    <file name="zphuangkuang@2x320x156.jpg" crc="357925192" seo="true" ref="个人作品集"/>
+    <file name="aizy7-crop-u59135.jpg" crc="4208584094" ref="个人作品集"/>
+    <file name="aizy8-crop-u59385.jpg" crc="535258387" ref="个人作品集"/>
+    <file name="img_2834.jpg" crc="3799159012" seo="true" ref="关于我"/>
+    <file name="fangxingdhk@2x.png" crc="533674556" seo="true" ref="关于我"/>
+    <file name="labi@2x.png" crc="4083393862" seo="true" ref="关于我"/>
+    <file name="ps@2x.png" crc="311531913" seo="true" ref="关于我"/>
+    <file name="ai@2x.png" crc="140121875" seo="true" ref="关于我"/>
+    <file name="muse@2x.png" crc="3963049166" seo="true" ref="关于我"/>
+    <file name="kuang@2x.png" crc="292517312" seo="true" ref="关于我"/>
+    <file name="img_2834421x421.jpg" crc="466990212" seo="true" ref="关于我"/>
+    <file name="labi@2x398x366.png" crc="4122545303" seo="true" ref="关于我"/>
+    <file name="kuang@2x-crop-u4263.png" crc="4281398935" ref="关于我"/>
+    <file name="img_2834316x316.jpg" crc="278833307" seo="true" ref="关于我"/>
+    <file name="labi@2x323x298.png" crc="124486393" seo="true" ref="关于我"/>
+    <file name="kuang@2x-crop-u42632.png" crc="3963148449" ref="关于我"/>
+    <file name="img_2834263x264.jpg" crc="251795163" seo="true" ref="关于我"/>
+    <file name="labi@2x270x248.png" crc="452441670" seo="true" ref="关于我"/>
+    <file name="kuang@2x-crop-u42633.png" crc="378406050" ref="关于我"/>
+    <file name="img_2834127x128.jpg" crc="296705428" seo="true" ref="关于我"/>
+    <file name="labi@2x137x133.png" crc="3966491754" seo="true" ref="关于我"/>
+    <file name="kuang@2x-crop-u42634.png" crc="528952088" ref="关于我"/>
+  </folder>
+  <file name="index.html" crc="4233169917" seo="true" mt="1529540439282" redirect="true"/>
+  <file name="个人作品集.html" crc="269827633" seo="true" mt="1529544381931" redirect="true"/>
+  <file name="关于我.html" crc="14304719" seo="true" mt="1529540524105" redirect="true"/>
+</manifest>
