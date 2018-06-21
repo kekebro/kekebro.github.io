@@ -1,0 +1,152 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="designbydkx.com" resolutions="1x" timestamp="1529558801957">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="taketori.css" crc="3949100683" ref="index"/>
+    <file name="grzpj.css" crc="3801702305" ref="grzpj"/>
+    <file name="nomq_grzpj.css" crc="4259193875" ref="grzpj"/>
+    <file name="me.css" crc="4172365055" ref="me"/>
+    <file name="nomq_me.css" crc="4141000623" ref="me"/>
+    <file name="index.css" crc="389025895" ref="index"/>
+    <file name="nomq_index.css" crc="3981631906" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:grzpj:me"/>
+    <file name="museutils.js" crc="163421577" ref="index:grzpj:me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:grzpj:me"/>
+    <file name="museconfig.js" crc="168988563" ref="index:grzpj:me"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:grzpj:me"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:grzpj:me"/>
+    <file name="taketori.js" crc="4106779027" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:grzpj:me"/>
+    <file name="webpro.js" crc="3848665353" ref="grzpj"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="grzpj"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="grzpj"/>
+    <file name="touchswipe.js" crc="404375771" ref="grzpj"/>
+  </folder>
+  <folder name="images">
+    <file name="longk1@2x.jpg" crc="4010837687" seo="true" ref="index"/>
+    <file name="yellowjx1@2x.jpg" crc="291731086" seo="true" ref="index"/>
+    <file name="yellowkuang2.jpg" crc="510159246" seo="true" ref="index"/>
+    <file name="whitekuang@2x.png" crc="4097678261" seo="true" ref="index"/>
+    <file name="heikuang@2x.png" crc="3874471616" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x.png" crc="4045232144" seo="true" ref="index"/>
+    <file name="535034487.jpg" crc="3849054760" seo="true" ref="index"/>
+    <file name="epson758.jpg" crc="4266159274" seo="true" ref="index"/>
+    <file name="smallheikuang@2x.png" crc="4241851551" seo="true" ref="index"/>
+    <file name="yuan@2x.png" crc="244639821" seo="true" ref="index"/>
+    <file name="me@2x.png" crc="3898580615" seo="true" ref="index"/>
+    <file name="star@2x.png" crc="4248363562" seo="true" ref="index"/>
+    <file name="dianzan@2x.png" crc="411363159" seo="true" ref="index:grzpj:me"/>
+    <file name="longk2@2x.jpg" crc="3914774280" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x308x288.png" crc="516067156" seo="true" ref="index"/>
+    <file name="yellowjx1@2x421x478.jpg" crc="4227228100" seo="true" ref="index"/>
+    <file name="yellowkuang2398x464.jpg" crc="58369580" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x265x248.png" crc="453175973" seo="true" ref="index"/>
+    <file name="epson758251x393.jpg" crc="74138966" seo="true" ref="index"/>
+    <file name="yellowjx1@2x416x472.jpg" crc="4182511426" seo="true" ref="index"/>
+    <file name="yellowkuang2423x493.jpg" crc="3876670306" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x246x230.png" crc="3772886550" seo="true" ref="index"/>
+    <file name="epson758248x387.jpg" crc="4058923537" seo="true" ref="index"/>
+    <file name="yellowjx1@2x239x271.jpg" crc="114842243" seo="true" ref="index"/>
+    <file name="blacktouxiang@2x166x155.png" crc="4200767477" seo="true" ref="index"/>
+    <file name="yellowkuang2320x465.jpg" crc="343122827" seo="true" ref="index"/>
+    <file name="epson758202x335.jpg" crc="150587648" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:grzpj:me"/>
+    <file name="dayuankuang@2x.png" crc="4093469334" seo="true" ref="grzpj"/>
+    <file name="changkuang1@2x.jpg" crc="4030040753" seo="true" ref="grzpj:me"/>
+    <file name="shouye@2x.png" crc="285669449" seo="true" ref="grzpj:me"/>
+    <file name="shoucang@2x.png" crc="159503345" seo="true" ref="grzpj:me"/>
+    <file name="epson758-crop-u1104.jpg" crc="3951735803" ref="grzpj"/>
+    <file name="loading.gif" crc="3815509949" ref="grzpj"/>
+    <file name="新建文件夹00002-crop-u1278.jpg" crc="12317425" ref="grzpj"/>
+    <file name="新建文件夹00005.jpg" crc="493264787" seo="true" ref="grzpj"/>
+    <file name="1-crop-u1421.jpg" crc="4143676219" ref="grzpj"/>
+    <file name="新建文件夹00003-crop-u1483.jpg" crc="4204047410" ref="grzpj"/>
+    <file name="2-crop-u1547.jpg" crc="362324617" ref="grzpj"/>
+    <file name="blacktouxiang@2x371x347.png" crc="235306093" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x.jpg" crc="494158595" seo="true" ref="grzpj"/>
+    <file name="邓可炘ps作业.jpg" crc="3916617923" seo="true" ref="grzpj"/>
+    <file name="邓可炘风格化作业.jpg" crc="247812551" seo="true" ref="grzpj"/>
+    <file name="邓可炘系列3副本.jpg" crc="184895549" seo="true" ref="grzpj"/>
+    <file name="vcg41157504497副本.jpg" crc="377774065" seo="true" ref="grzpj"/>
+    <file name="邓可炘作业8-crop-u2115.jpg" crc="27597822" ref="grzpj"/>
+    <file name="邓可炘作业7-crop-u2064.jpg" crc="207756568" ref="grzpj"/>
+    <file name="xitiaokuang@2x.jpg" crc="4053096690" seo="true" ref="grzpj:me"/>
+    <file name="dayuankuang@2x1024x926.png" crc="3941880243" seo="true" ref="grzpj"/>
+    <file name="epson758-crop-u11042.jpg" crc="3951735803" ref="grzpj"/>
+    <file name="新建文件夹00002-u1278.png" crc="4186231890" ref="grzpj"/>
+    <file name="1-crop-u14212.jpg" crc="4143676219" ref="grzpj"/>
+    <file name="新建文件夹00003-crop-u14832.jpg" crc="4204047410" ref="grzpj"/>
+    <file name="2-crop-u15472.jpg" crc="362324617" ref="grzpj"/>
+    <file name="blacktouxiang@2x316x296.png" crc="290691853" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x1024x159.jpg" crc="445119902" seo="true" ref="grzpj"/>
+    <file name="邓可炘ps作业179x119.jpg" crc="3768553164" seo="true" ref="grzpj"/>
+    <file name="邓可炘风格化作业181x121.jpg" crc="4285279988" seo="true" ref="grzpj"/>
+    <file name="邓可炘系列3副本176x117.jpg" crc="4130280371" seo="true" ref="grzpj"/>
+    <file name="vcg41157504497副本176x127.jpg" crc="4070707456" seo="true" ref="grzpj"/>
+    <file name="邓可炘作业8-crop-u21152.jpg" crc="527945458" ref="grzpj"/>
+    <file name="邓可炘作业7-crop-u20642.jpg" crc="3783867939" ref="grzpj"/>
+    <file name="dayuankuang@2x769x726.png" crc="4027701174" seo="true" ref="grzpj"/>
+    <file name="epson758-crop-u11043.jpg" crc="4216702903" ref="grzpj"/>
+    <file name="新建文件夹00002-u12782.png" crc="178143528" ref="grzpj"/>
+    <file name="新建文件夹00005143x99.jpg" crc="411515825" seo="true" ref="grzpj"/>
+    <file name="1-crop-u14213.jpg" crc="176726470" ref="grzpj"/>
+    <file name="新建文件夹00003-crop-u14833.jpg" crc="119414696" ref="grzpj"/>
+    <file name="2-crop-u15473.jpg" crc="32811080" ref="grzpj"/>
+    <file name="blacktouxiang@2x214x201.png" crc="4153405324" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x768x159.jpg" crc="223035367" seo="true" ref="grzpj"/>
+    <file name="邓可炘系列3副本182x121.jpg" crc="3913525338" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x768x163.jpg" crc="223035367" seo="true" ref="grzpj"/>
+    <file name="邓可炘作业8-crop-u21153.jpg" crc="527945458" ref="grzpj"/>
+    <file name="邓可炘作业7-crop-u20643.jpg" crc="3783867939" ref="grzpj"/>
+    <file name="dayuankuang@2x639x725.png" crc="170055370" seo="true" ref="grzpj"/>
+    <file name="epson758-crop-u11044.jpg" crc="4216702903" ref="grzpj"/>
+    <file name="新建文件夹00002-u12783.png" crc="178143528" ref="grzpj"/>
+    <file name="1-crop-u14214.jpg" crc="176726470" ref="grzpj"/>
+    <file name="新建文件夹00003-crop-u14834.jpg" crc="119414696" ref="grzpj"/>
+    <file name="2-crop-u15474.jpg" crc="32811080" ref="grzpj"/>
+    <file name="blacktouxiang@2x256x240.png" crc="436425704" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x639x171.jpg" crc="318239125" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x639x165.jpg" crc="318239125" seo="true" ref="grzpj"/>
+    <file name="邓可炘作业8-crop-u21154.jpg" crc="527945458" ref="grzpj"/>
+    <file name="邓可炘作业7-crop-u20644.jpg" crc="3783867939" ref="grzpj"/>
+    <file name="dayuankuang@2x321x364.png" crc="139703890" seo="true" ref="grzpj"/>
+    <file name="epson758-crop-u11045.jpg" crc="3897250075" ref="grzpj"/>
+    <file name="新建文件夹00002-u12784.png" crc="227504251" ref="grzpj"/>
+    <file name="新建文件夹00005-crop-u1362.jpg" crc="247715781" ref="grzpj"/>
+    <file name="1.jpg" crc="3768893127" seo="true" ref="grzpj"/>
+    <file name="新建文件夹00003-crop-u14835.jpg" crc="4052998232" ref="grzpj"/>
+    <file name="2.jpg" crc="4126021574" seo="true" ref="grzpj"/>
+    <file name="blacktouxiang@2x83x78.png" crc="233833017" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x321x136.jpg" crc="3922228854" seo="true" ref="grzpj"/>
+    <file name="邓可炘ps作业120x80.jpg" crc="267437822" seo="true" ref="grzpj"/>
+    <file name="邓可炘风格化作业120x80.jpg" crc="3881346513" seo="true" ref="grzpj"/>
+    <file name="邓可炘系列3副本120x80.jpg" crc="297096034" seo="true" ref="grzpj"/>
+    <file name="zphuangkuang@2x320x156.jpg" crc="357925192" seo="true" ref="grzpj"/>
+    <file name="vcg41157504497副本111x80.jpg" crc="224943066" seo="true" ref="grzpj"/>
+    <file name="邓可炘作业8101x95.jpg" crc="501421439" seo="true" ref="grzpj"/>
+    <file name="邓可炘作业7-crop-u20645.jpg" crc="428957787" ref="grzpj"/>
+    <file name="img_2834.jpg" crc="3799159012" seo="true" ref="me"/>
+    <file name="fangxingdhk@2x.png" crc="533674556" seo="true" ref="me"/>
+    <file name="labi@2x.png" crc="4083393862" seo="true" ref="me"/>
+    <file name="ps@2x.png" crc="311531913" seo="true" ref="me"/>
+    <file name="ai@2x.png" crc="140121875" seo="true" ref="me"/>
+    <file name="muse@2x.png" crc="3963049166" seo="true" ref="me"/>
+    <file name="kuang@2x.png" crc="292517312" seo="true" ref="me"/>
+    <file name="img_2834421x421.jpg" crc="466990212" seo="true" ref="me"/>
+    <file name="labi@2x398x366.png" crc="4122545303" seo="true" ref="me"/>
+    <file name="kuang@2x-crop-u4263.png" crc="4281398935" ref="me"/>
+    <file name="img_2834316x316.jpg" crc="278833307" seo="true" ref="me"/>
+    <file name="labi@2x323x298.png" crc="124486393" seo="true" ref="me"/>
+    <file name="kuang@2x-crop-u42632.png" crc="3963148449" ref="me"/>
+    <file name="img_2834263x264.jpg" crc="251795163" seo="true" ref="me"/>
+    <file name="labi@2x270x248.png" crc="452441670" seo="true" ref="me"/>
+    <file name="kuang@2x-crop-u42633.png" crc="378406050" ref="me"/>
+    <file name="img_2834127x128.jpg" crc="296705428" seo="true" ref="me"/>
+    <file name="labi@2x137x133.png" crc="3966491754" seo="true" ref="me"/>
+    <file name="kuang@2x-crop-u42634.png" crc="157095586" ref="me"/>
+  </folder>
+  <file name="index.html" crc="527416061" seo="true" mt="1529558555647" redirect="true"/>
+  <file name="grzpj.html" crc="472553027" seo="true" mt="1529558527302" redirect="true"/>
+  <file name="me.html" crc="4247446599" seo="true" mt="1529558540081" redirect="true"/>
+</manifest>
